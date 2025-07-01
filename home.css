@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'OpenSans';
+    src: url('./Assets/OpenSans-VariableFont_wdth\,wght.ttf') format('truetype');
+}
+
+*{
+    font-family: 'OpenSans';
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+
+.hero-section {
+    background-image: url('./Media/background-image.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.navbar-toggler-icon{
+    background-color: white;
+}
+
+.button123{
+    background-color: white !important;
+}
+
+.hover-design:hover{
+      font-weight: bolder;
+    text-decoration: underline;
+}
