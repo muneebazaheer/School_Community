@@ -16,6 +16,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    height: 350px;
     width: 100%;
 }
 
@@ -28,6 +29,28 @@
 }
 
 .hover-design:hover{
-      font-weight: bolder;
+    font-weight: bolder;
     text-decoration: underline;
 }
+
+.custom_button{
+    margin-left: 4rem;
+    background-color: #0193DC !important;
+    border-radius: 2px !important;
+}
+
+.custom_button2 {
+    background-color: #0193DC !important;
+    border-radius: 2px !important;
+}
+
+.custom_button3 {
+    background-color: #0193DC !important;
+    border-radius: 2px !important;
+    margin-left: 45%;
+    height: auto;
+}
+.color-class {
+    color: lightgray;
+}
+
